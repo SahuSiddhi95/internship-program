@@ -1,0 +1,514 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    text-decoration: none;
+}
+
+.header {
+    height: 40px;
+    display: flex;
+}
+
+/* .logo{
+   height: 20px;
+   width: 20px;
+   background-image: url("https://logos-download.com/wp-content/uploads/2020/06/eVision_Industry_Software_Logo.png");
+} */
+img{
+    padding-left: 25px;
+    padding-top: 4px;
+    padding-right: 600px;
+    height: 50px;
+}
+
+.content {
+    height: 635px;
+    background-color:#19c0be;
+    text-align: center;
+    text-shadow: 1px 2px 5px rgba(0,0,0,.3);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-top: 15px;
+    padding-left: 20px;
+   
+    text-shadow: 1px 2px 5px rgba(0,0,0,.3);
+}
+
+a:hover {
+    color: aqua;
+}
+
+h1.vision {
+    padding-top: 200px;
+    font-size: 50px;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 1px 2px 5px rgba(0,0,0,.3);
+}
+
+h2 {
+    padding-top: 10px;
+    color: white;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+
+.get {
+    height: 33px;
+    width: 113px;
+    margin-top: 15px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.get:hover {
+    background-color: rgb(24, 85, 42);
+}
+
+.content2 {
+    height: 500px;
+    display: flex;
+
+}
+
+h1.about {
+    /* padding-right: 75px; */
+    padding-top: 20px;
+    text-align: center;
+    color: #6C5CE7;
+    font-size: 40px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+
+div.flex {
+    height: 440px;
+    width: 825px;
+    /* background-color: rgb(180, 180, 120); */
+
+    text-align: center;
+}
+
+h1.business {
+    text-align: left;
+    padding-top: 65px;
+    margin-left: 39px;
+    color: #6C5CE7;
+    font-size: 40px;
+    
+    text-shadow: 1px 2px 5px rgba(0,0,0,.3);
+
+
+}
+
+p {
+   
+    color: grey;
+    /* text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,.3); */
+
+}
+
+.img {
+    height: 500px;
+    width: 490px;
+    background-image: url("https://img.freepik.com/free-vector/abstract-technology-sql-illustration_23-2149229480.jpg?t=st=1711715070~exp=1711718670~hmac=d8b27df06e9da221e34a18454b46e134468a5fbe1963bea8604f10e5b499c332&w=740");
+    background-size: cover;
+}
+
+.Services {
+    text-align: center;
+    font-size: 40px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+    
+}
+
+h1.Services {
+    padding-bottom: 20px;
+    color: #6C5CE7;
+    padding-top: 50px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+    font-size: 40px;
+    
+
+}
+h1.internship{
+    padding-bottom: 20px;
+    color: #6C5CE7;
+    padding-top: 50px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+    text-align: center;
+    font-size: 40px;
+    
+}
+.more{
+    height: 36px;
+    width: 157px;
+    border-radius: 9px;
+    border: transparent;
+    background-color: #6c5ce7;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins' sans-serif;
+    margin-top: 15px;
+    margin-left: -591px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+
+.flex2 {
+    height: 500px;
+    display: flex;
+}
+
+.img2 {
+    height: 440px;
+    width: 713px;
+    background-image: url("https://img.freepik.com/premium-vector/business-conversation-flat-illustration-with-high-resolution_203633-6556.jpg?w=740");
+    background-size: cover;
+}
+.website{
+    color: #6C5CE7;
+    text-align: center;
+    padding-top: 75px;
+    padding-right: 190px;
+    font-family: 'Poppins', sans-serif;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+.col2{
+    width: 598px;
+   
+}
+.text{
+    padding-top: 25px;
+     padding-left: 35px;
+    
+    font-family: 'Poppins', sans-serif;
+}
+.read {
+    height: 36px;
+    width: 157px;
+    border-radius: 9px;
+    border: transparent;
+    background-color: #6c5ce7;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins' sans-serif;
+    margin-top: 27px;
+    margin-left: 39px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+.read2{
+    height: 36px;
+    width: 157px;
+    border-radius: 9px;
+    border: transparent;
+    background-color: #6c5ce7;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins' sans-serif;
+    margin-top: 11px;
+    margin-left: 39px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+.read3{
+    height: 36px;
+    width: 157px;
+    border-radius: 9px;
+    border: transparent;
+    background-color: #6c5ce7;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins' sans-serif;
+    /* margin-top: 82px; */
+    margin-left: 39px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+}
+.flex3{
+    height: 550px;
+    display: flex;
+}
+.box{
+    height: 430px;
+    width: 410px;
+    border: 1px solid #00000047;
+    margin-top: 40px;
+    margin-left: 27px;
+    border-radius: 10px;
+    box-shadow:  1px 2px 5px rgba(0,0,0,.1);
+    padding-bottom: 15px;
+}
+.box2 {
+    height: 430px;
+    width: 410px;
+    border: 1px solid #00000047;
+    margin-top: 40px;
+    margin-left: 27px;
+    border-radius: 10px;
+    box-shadow:  1px 2px 5px rgba(0,0,0,.1);
+}
+.box3{
+    height: 430px;
+    width: 410px;
+    border: 1px solid #00000047;
+    margin-top: 40px;
+    margin-left: 27px;
+    border-radius: 10px;
+     box-shadow:  1px 2px 5px rgba(0,0,0,.1);
+}
+.img6{
+    margin-top: 25px;
+    height: 130px;
+    /* margin-right: 155px; */
+    background-size: cover;
+    width: 164px;
+    margin-left: 108px;
+    background-image: url("https://img.freepik.com/premium-vector/man-setting-working_622772-19.jpg?w=740");
+}
+.img7{
+    margin-top: 25px;
+    height: 130px;
+    /* margin-right: 155px; */
+    background-size: cover;
+    width: 164px;
+    margin-left: 108px;
+    background-image: url("https://img.freepik.com/free-vector/tiny-characters-sitting-laptop-with-lorem-ipsum-title_74855-20389.jpg?t=st=1711830765~exp=1711834365~hmac=a0c54db0b2c8dc43a8c6e9f80b5a978d66c98e1febba3e024bb3e73791dda075&w=740");
+}
+.img8{
+    margin-top: 25px;
+    height: 130px;
+    /* margin-right: 155px; */
+    background-size: cover;
+    width: 164px;
+    margin-left: 108px;
+    background-image: url("https://img.freepik.com/free-vector/productivity-concept-background_23-2147984841.jpg?t=st=1711830803~exp=1711834403~hmac=60503677a2beaa2937c4f5ec476ec65656b731edc6b336a0768b99977903573a&w=740");
+}
+h3{
+    text-align: center;
+    /* text-shadow: 1px 2px 5px rgba(0,0,0,.3); */
+    font-family: sans-serif;
+    color:  #333;
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+.text2{
+    text-align: center;
+    font-size: 14px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.box button{
+    margin-left: 118px;
+    font-size: 18px;
+    margin-top: 43px;
+}
+.box2 button{
+    margin-left: 120px;
+    font-size: 18px;
+}
+.box3 button{
+    margin-left: 120px;
+    font-size: 18px;
+    margin-top: 75px;
+}
+
+.flex4{
+    height: 550px;
+    display: flex;
+}
+
+.img3{
+    height: 500px;
+    width: 687px;
+    background-image: url("https://img.freepik.com/free-vector/contact-us-concept-illustration_114360-3147.jpg?t=st=1711836000~exp=1711839600~hmac=e7e3bd116c26baf42143169b57ac33e77b59ddc79589ddaf30997ff0d44e38ed&w=740");
+  background-size: cover;
+}
+.heading{
+    font-size: 48px;
+    text-align: center;
+    color: #6c5ce7 ;
+}
+.formarea{
+    height: 500px;
+    width: 690px;
+   
+   
+    /* box-shadow: 0.2rem 0.2rem 0.5rem rgba(46, 45, 45, 0.2) */
+}
+.web{
+    text-align: left;
+    padding-left: 41px;
+    color: grey;
+}
+.fname{
+    height: 44px;
+    width: 306px;
+    margin-top: 45px;
+    margin-right: 5px;
+    margin-left: 10px;
+    border: 1px solid #80808014;
+    padding-left: 12px;
+    font-size: 16px;
+    border-radius: 6px;
+     box-shadow: 1px 2px 5px rgba(73, 71, 71, 0.2);
+}
+.email{
+    height: 47px;
+    width: 631px;
+    border: 1px solid #80808014;
+    padding-left: 12px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    border-radius: 6px;
+     box-shadow:  1px 2px 5px rgba(46, 45, 45, 0.2)
+}
+.textarea{
+    width: 631px;
+    border: 1px solid #80808014;
+    padding-left: 12px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 12px;
+    box-shadow:  1px 2px 5px rgba(46, 45, 45, 0.2);
+    font-size: 16px;
+    box-shadow:  1px 2px 5px rgba(46, 45, 45, 0.2);
+    border-radius: 6px;
+    
+}
+.submit{
+    height: 44px;
+    width: 94px;
+    font-size: 16px;
+    border: 1px solid #80808014;
+    background-color: #6C5CE7;
+    color: #fff;
+    border-radius: 6px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+h1.faq{
+    text-align: center;
+    padding-bottom: 20px;
+    color: #6C5CE7;
+    padding-top: 50px;
+    text-shadow:  1px 2px 5px rgba(0,0,0,.3);
+
+}
+
+
+
+.flex6{
+    height: 600px;
+    display: flex;
+   
+}
+.img12{
+    background-image: url("https://img.freepik.com/free-vector/faqs-concept-illustration_114360-5185.jpg?t=st=1711914887~exp=1711918487~hmac=eaff58b496ac7069ff337db610daa3532dc71b1facd0099a335f1849614cca2c&w=740");
+    height: 547px;
+    
+    margin-right: -17px;
+    width: 659px;
+}
+.flexbox{
+    flex-direction: row;
+    padding-top: 63px;
+}
+.line1{
+    border: 1px solid #80808091;
+    background-color: #007dfe;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 35px;
+    /* margin-bottom: 15px; */
+}
+.line2{
+    border: 1px solid #80808091;
+    margin-left: 35px;
+    margin-top: 12px;
+    font-size: 13px;
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-bottom: 8px;
+    background-color: #007dfe;
+    color: #fff;
+}
+
+
+.footer{
+    height: 450px;
+    display: flex;
+   background-color: #19c0be;
+    padding-top: 35px;
+    padding-left: 55px;
+}
+.box7{
+    height: 315px;
+    width: 300px;
+   
+    margin-right: 47px;
+}
+.box8{
+
+}
+.footer .box7 h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 27px;
+    text-align: left;
+    /* padding-left: 28px; */
+}
+.footer .box8 h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 27px;
+    text-align: left;
+    padding-left: 21px;
+}
+.footer .box9 h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 27px;
+    text-align: left;
+    padding-left: 19px;
+}
+.footer .box10 h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 27px;
+    text-align: left;
+    padding-left: 146px;
+}
+.footer .box7 p{
+    text-align: left;
+    padding-left: initial;
+    color: #fff;
+}
+.footer .box7 h3{
+    color: white;
+    text-decoration: underline;
+    font-size: 27px;
+    text-align: left;
+}
+.box7 a:hover{
+    text-decoration: underline;
+
+}
+.box9{
+    padding-left: 135px;
+}
+
+.email{
+
+}
+.box10{
+    text-align: end;
+    padding-left: 145px;
+}
